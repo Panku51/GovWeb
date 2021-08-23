@@ -1,0 +1,99 @@
+body{
+    background-color: #1A1318;
+    color: white;
+}
+.jsgWhite{
+    font-size: 50px;
+}
+.jsgYlw{
+    font-size: 50px;
+    color: hsl(37, 89%, 64%);
+}
+.jsgPul{
+    margin-top: 15px;
+    font-size: 24px;
+    font-weight: lighter;
+}
+.icon{
+    padding: 10px;
+}
+.outer{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #C4D0B4;
+    color: black;
+    margin: 50px;
+    border: 0px;
+    border-radius: 10px;
+}
+.play{
+    top: 35%;
+    left: 41%;
+    position: absolute;
+}
+.relative{
+    position: relative;
+}
+.parent{
+    margin-top: 20%;
+}
+.lp{
+    margin-right: 30px;
+}
+.pad{
+    padding-top: 5px;
+}
+.arrow{
+    position: absolute;
+    bottom: 0%;
+    left: 84%;
+}
+.visitbtn{
+    margin-top: 20px;
+    color: #FFFFFF;
+    background-color:initial ;
+    border: 1px #FFFFFF solid ;
+    border-radius: 10px;
+    padding: 8px 50px 8px 50px;
+}
+.card-deck{  
+    background-color: #373737;
+    height: 452px;
+}
+.card-title{
+    background-color: #373737;
+    padding: 30px;
+    text-align: center;
+}
+.text{
+    text-align: center;
+    padding: 10px;
+}
+.img{
+    padding: 15px;
+}
+.lorem{
+    font-size: 18px;
+    font-weight: lighter;
+}
+.big{
+    position: relative;
+    background-color: grey;
+    width: 1100px;
+    height: 600px;
+    float: right;
+}
+.small{
+    position: absolute;
+    background-color:black;
+    width: 400px;
+    height: 400px;
+    top: 2500px;
+    left: 100px;
+}
