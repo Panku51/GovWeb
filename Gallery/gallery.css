@@ -5,16 +5,14 @@
   font-size: 24px;
   font-weight: bold;
 }
-.bg-img {
-  background-image: url("assets/backimage.png");
-  min-height: 50vw;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
 .topnav {
   overflow: hidden;
+}
+.navbar-nav{
+  margin-left: auto;
+}
+.navbar-brand{
+  padding-left: 10px;
 }
 .boxheader {
     font-family: 'Open Sans', sans-serif;
