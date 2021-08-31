@@ -288,8 +288,8 @@ body{
 
 
 
-  footer{
-    background-image: linear-gradient(to bottom right, #2E1750,#211A37);
+footer{
+  background-image: linear-gradient(to bottom right, #2E1750,#211A37);
 }
 .inner-footer{
   margin:0px;
