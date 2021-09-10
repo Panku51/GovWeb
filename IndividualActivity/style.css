@@ -9,6 +9,9 @@
   font-weight: bold;
 
 }
+#bg-img {
+  background-color: #1A1318!important;
+}
 .navbar-nav{
   margin-left: auto;
 }

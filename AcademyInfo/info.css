@@ -5,6 +5,9 @@ body{
     background-color: #1A1318;
     color: white;
 }
+#bg-img {
+  background-color: #1A1318!important;
+}
 .nav-item .nav-link{
   font-family: 'Maven Pro', sans-serif;
   font-size: 24px;
